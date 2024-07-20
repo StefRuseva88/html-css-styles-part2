@@ -1,0 +1,34 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start; /* Align containers to the left */
+    max-width: 30vw; /* Adjusted width for better visibility */
+    height: 35rem;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-right: 1rem; /* Adjust margin between columns */
+    flex: 1; /* Ensure both columns have equal width */
+}
+
+.container span {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem; /* Adjust margin between letters */
+}
