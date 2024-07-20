@@ -1,0 +1,38 @@
+html {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    line-height: 1.2;
+}
+
+body {
+    background-color: #EEE;
+    padding: 5rem;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    margin: 0 auto;
+}
+
+article {
+    background-color: #FFF;
+    padding: 2rem;
+    border-radius: 0.4rem;
+    color: #000;
+    flex: 1;
+    margin: 0 1rem;
+}
+
+article h2 {
+    margin-top: 0;
+}
+
+article p {
+    margin-bottom: 0;
+}
