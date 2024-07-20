@@ -1,0 +1,34 @@
+.sitetitle{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom-width: 2px;
+	border-bottom-color: rgb(0, 0, 0);
+    border-bottom-style: solid;
+    width: 80vw;
+    margin: auto;
+}
+
+main{
+    width: 80vw;
+    margin: auto;
+}
+
+li{
+    margin: 10px;
+}
+
+
+header ul{
+    display: flex;
+    list-style-type: none;
+}
+
+header ul a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
