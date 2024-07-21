@@ -29,7 +29,7 @@
 21. [Contact](#Contact)
 
 ## 1. Box Model Container
-Create a centered box with padding, border, and unique corner radii.
+Create a centered box with padding, border, and unique corner radius.
 
 ## 2. Brazil Coffee
 Design a coffee-themed section with styled heading, button, and paragraph.
