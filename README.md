@@ -24,3 +24,6 @@
 16. [Blog Layout – Flexbox](#16-blog-layout-–-flexbox)
 17. [Sticky Footer – Flexbox](#17-sticky-footer-–-flexbox)
 18. [Center Flexbox](#18-center-flexbox)
+19. [Contributing](#Contributing)
+20. [License](#License)
+21. [Contact](#Contact)
