@@ -30,6 +30,16 @@
 
 ## 1. Box Model Container
 Create a centered box with padding, border, and unique corner radius.
+### Requirements
+- **body**: Background color: lightslategray
+- **p**:
+  - Width: 300px
+  - Padding: 20px
+  - Auto margins
+  - Background color: #0F4069
+  - Text color: whitesmoke
+  - Border: 2px solid #e6eaef
+  - Border radius: 15px (top left & bottom right), 50px (top right & bottom left)
 
 ## 2. Brazil Coffee
 Design a coffee-themed section with styled heading, button, and paragraph.
