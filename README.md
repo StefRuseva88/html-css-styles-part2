@@ -32,7 +32,6 @@
 Create a centered box with padding, border, and unique corner radius.
 ### Requirements
 - **body**: Background color: lightslategray
-- **p**:
   - Width: 300px
   - Padding: 20px
   - Auto margins
