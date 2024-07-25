@@ -29,58 +29,58 @@
 20. [License](#License)
 21. [Contact](#Contact)
 
-## 1. Box Model Container
+## Box Model Container
 Create a centered box with padding, border, and unique corner radius.
 
-## 2. Brazil Coffee
+## Brazil Coffee
 Design a coffee-themed section with styled heading, button, and paragraph.
 
-## 3. Article
+## Article
 Style an article with floated images and justified text.
 
-## 4. Navigation Inline Block
+## Navigation Inline Block
 Create an inline-block navigation bar with list items.
 
-## 5. Photo Gallery Inline Block
+## Photo Gallery Inline Block
 Create an inline-block photo gallery with centered images and borders.
 
-## 6. Position Playground
+## Position Playground
 Create a layout with absolute positioning to center content within containers.
 
-## 7. Center Position and Transform
+## Center Position and Transform
 Center content using position and transform properties.
 
-## 8. Navigation
+##. Navigation
 Create a complex navigation structure with headers, sections, and styled links.
 
-## 9. Social Media Icons
+## Social Media Icons
 Add social media icons using FontAwesome with hover effects.
 
-## 10. Flexbox Layout
+## Flexbox Layout
 Create a flexible layout with header, main, aside, and footer sections.
 
-## 11. FlexModel Articles
+## FlexModel Articles
 Design a section with articles using flexbox for layout and spacing.
 
-## 12. ABC Game
+## ABC Game
 Create a flexbox game layout with ordered span elements representing letters.
 
-## 13. Calendar
+## Calendar
 Design a calendar layout using flexbox with sections for week and notes.
 
-## 14. Navigation Flexbox
+## Navigation Flexbox
 Create a flexbox-based navigation bar with styled links.
 
-## 15. Photo Gallery – Flexbox
+## Photo Gallery – Flexbox
 Create a photo gallery with flexbox, ensuring images are spaced evenly.
 
-## 16. Blog Layout – Flexbox
+## Blog Layout – Flexbox
 Design a blog layout with a flexbox container, styled headings, and aside links.
 
-## 17. Sticky Footer – Flexbox
+## Sticky Footer – Flexbox
 Create a layout with a sticky footer using flexbox.
 
-## 18. Center Flexbox
+## Center Flexbox
 Center a content card within the viewport using flexbox.
 
 ## Contributing
