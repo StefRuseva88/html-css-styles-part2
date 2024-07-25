@@ -30,58 +30,58 @@
 21. [Contact](#Contact)
 
 ## Box Model Container
-Create a centered box with padding, border, and unique corner radius.
+Creates a centered box with padding, border, and unique corner radius.
 
 ## Brazil Coffee
-Design a coffee-themed section with styled heading, button, and paragraph.
+Designs a coffee-themed section with styled heading, button, and paragraph.
 
 ## Article
-Style an article with floated images and justified text.
+Styles an article with floated images and justified text.
 
 ## Navigation Inline Block
-Create an inline-block navigation bar with list items.
+Creates an inline-block navigation bar with list items.
 
 ## Photo Gallery Inline Block
-Create an inline-block photo gallery with centered images and borders.
+Creates an inline-block photo gallery with centered images and borders.
 
 ## Position Playground
-Create a layout with absolute positioning to center content within containers.
+Creates a layout with absolute positioning to center content within containers.
 
 ## Center Position and Transform
-Center content using position and transform properties.
+Centers content using position and transforms properties.
 
 ##. Navigation
-Create a complex navigation structure with headers, sections, and styled links.
+Creates a complex navigation structure with headers, sections, and styled links.
 
 ## Social Media Icons
-Add social media icons using FontAwesome with hover effects.
+Adds social media icons using FontAwesome with hover effects.
 
 ## Flexbox Layout
-Create a flexible layout with header, main, aside, and footer sections.
+Creates a flexible layout with header, main, aside, and footer sections.
 
 ## FlexModel Articles
-Design a section with articles using flexbox for layout and spacing.
+Designs a section with articles using flexbox for layout and spacing.
 
 ## ABC Game
-Create a flexbox game layout with ordered span elements representing letters.
+Creates a flexbox game layout with ordered span elements representing letters.
 
 ## Calendar
-Design a calendar layout using flexbox with sections for week and notes.
+Designs a calendar layout using flexbox with sections for week and notes.
 
 ## Navigation Flexbox
-Create a flexbox-based navigation bar with styled links.
+Creates a flexbox-based navigation bar with styled links.
 
 ## Photo Gallery – Flexbox
-Create a photo gallery with flexbox, ensuring images are spaced evenly.
+Creates a photo gallery with flexbox, ensuring images are spaced evenly.
 
 ## Blog Layout – Flexbox
-Design a blog layout with a flexbox container, styled headings, and aside links.
+Designs a blog layout with a flexbox container, styled headings, and aside links.
 
 ## Sticky Footer – Flexbox
-Create a layout with a sticky footer using flexbox.
+Creates a layout with a sticky footer using flexbox.
 
 ## Center Flexbox
-Center a content card within the viewport using flexbox.
+Centers a content card within the viewport using flexbox.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
