@@ -33,10 +33,10 @@
 Creates a centered box with padding, border, and unique corner radius.
 
 ## Brazil Coffee
-Designs a coffee-themed section with styled heading, button, and paragraph with the following requirements: HTML with `<body>` that contains: `<section>` which has `<img>`, `<h2>`, `<div>`, `<button>` and `<p>`.
+Designs a coffee-themed section with styled heading, button, and paragraph.
 
 ## Article
-Styles an article with floated images and justified text.
+Styles an article with floated images and justified text. 
 
 ## Navigation Inline Block
 Creates an inline-block navigation bar with list items.
