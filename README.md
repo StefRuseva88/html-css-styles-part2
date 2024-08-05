@@ -34,6 +34,7 @@ Creates a centered box with padding, border, and unique corner radius.
 
 ## Brazil Coffee
 Designs a coffee-themed section with styled heading, button, and paragraph.
+- Requirements: HTML with `<body>` that contains: `<section>` which has `<img>`, `<h2>`, `<div>`, `<button>` and `<p>`.
 
 ## Article
 Styles an article with floated images and justified text.
