@@ -50,7 +50,7 @@ Creates a layout with absolute positioning to center content within containers.
 ## Center Position and Transform
 Centers content using position and transforms properties.
 
-##. Navigation
+## Navigation
 Creates a complex navigation structure with headers, sections, and styled links.
 
 ## Social Media Icons
