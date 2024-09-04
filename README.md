@@ -21,9 +21,9 @@
 12. [ABC Game](#abc-game)
 13. [Calendar](#calendar)
 14. [Navigation Flexbox](#navigation-flexbox)
-15. [Photo Gallery – Flexbox](#photo-gallery-flexbox)
-16. [Blog Layout – Flexbox](#blog-layout-flexbox)
-17. [Sticky Footer – Flexbox](#sticky-footer-flexbox)
+15. [Photo Gallery Flexbox](#photo-gallery-flexbox)
+16. [Blog Layout Flexbox](#blog-layout-flexbox)
+17. [Sticky Footer Flexbox](#sticky-footer-flexbox)
 18. [Center Flexbox](#center-flexbox)
 19. [Contributing](#Contributing)
 20. [License](#License)
@@ -71,13 +71,13 @@
 ## Navigation Flexbox
 - Creates a flexbox-based navigation bar with styled links.
 
-## Photo Gallery – Flexbox
+## Photo Gallery Flexbox
 - Creates a photo gallery with flexbox, ensuring images are spaced evenly.
 
-## Blog Layout – Flexbox
+## Blog Layout Flexbox
 - Designs a blog layout with a flexbox container, styled headings, and aside links.
 
-## Sticky Footer – Flexbox
+## Sticky Footer Flexbox
 - Creates a layout with a sticky footer using flexbox.
 
 ## Center Flexbox
