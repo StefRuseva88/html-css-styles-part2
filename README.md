@@ -1,9 +1,8 @@
 # Exercise: HTML and CSS - Part 2
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Font Awesome](https://img.shields.io/badge/Font%20Awesome-005C7F.svg)](https://fontawesome.com/)
+[![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/Made%20with-HTML-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ### This is a project for Front-End Technologies May 2024 Course @ SoftUni
 ---
 ## Table of Contents
