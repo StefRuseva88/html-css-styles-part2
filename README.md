@@ -1,4 +1,4 @@
-# Exercise: HTML and CSS - Part 2
+# HTML and CSS - Part 2
 
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-005C7F.svg)](https://fontawesome.com/)
 [![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
