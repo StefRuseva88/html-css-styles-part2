@@ -29,7 +29,7 @@
 21. [Contact](#Contact)
 
 ## Box Model Container
-- Creates a centered box with padding, border, and unique corner radius.
+- Demonstrates the box model concept by creating a centered container with padding, a solid border, and a unique border-radius to give the container a rounded look. This exercise focuses on understanding how the content, padding, and border interact, emphasizing the importance of layout structure.
 
 ## Brazil Coffee
 - A visually rich section that showcases a coffee-themed layout. Includes a large heading, a call-to-action button, and a stylized paragraph. It emphasizes typography, button styling, and the aesthetic balance between text and visuals, all using HTML and CSS properties.
