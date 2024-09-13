@@ -77,10 +77,10 @@
 - Designs a blog layout with a flexbox container, styled headings, and aside links.
 
 ## Sticky Footer Flexbox
-- Creates a layout with a sticky footer using flexbox.
+- Creates a layout that ensures the footer stays "sticky" at the bottom of the page using Flexbox. This exercise demonstrates how to maintain the footer’s position even when content is limited, utilizing Flexbox’s space-distribution properties to manage vertical layouts.
 
 ## Center Flexbox
-- Centers a content card within the viewport using flexbox.
+- Centers a content card in the middle of the viewport using Flexbox. The card remains perfectly centered regardless of the viewport size, showcasing the simplicity and effectiveness of Flexbox in handling alignment and centering tasks within a web page layout.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
