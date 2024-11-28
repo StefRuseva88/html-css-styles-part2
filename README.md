@@ -24,9 +24,8 @@
 16. [Blog Layout Flexbox](#blog-layout-flexbox)
 17. [Sticky Footer Flexbox](#sticky-footer-flexbox)
 18. [Center Flexbox](#center-flexbox)
-19. [Contributing](#Contributing)
-20. [License](#License)
-21. [Contact](#Contact)
+19. [License](#License)
+20. [Contact](#Contact)
 
 ## Box Model Container
 - Demonstrates the box model concept by creating a centered container with padding, a solid border, and a unique border-radius to give the container a rounded look. This exercise focuses on understanding how the content, padding, and border interact, emphasizing the importance of layout structure.
@@ -81,9 +80,6 @@
 
 ## Center Flexbox
 - Centers a content card in the middle of the viewport using Flexbox. The card remains perfectly centered regardless of the viewport size, showcasing the simplicity and effectiveness of Flexbox in handling alignment and centering tasks within a web page layout.
-
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
